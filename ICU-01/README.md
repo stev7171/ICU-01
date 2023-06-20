@@ -52,6 +52,6 @@ out - outputs to specified location
 in - inputs from specified location (not fully implemented in the emulator)
 jmp - jumps to a specific location  
   
-Note: "hlt" is "hlt 0" because of how operands work in the assmebler.
+Note: "hlt" is "hlt 0" because of how operands work in the assembler.
 
 ## Thanks For Reading! ##
