@@ -1,0 +1,12 @@
+ldi 1
+wrt 0
+in 7
+xor 1
+jz 9
+wrc 0
+wrt 1
+wrc 1
+wrt 2
+wrc 2
+wrc 0
+hlt 0

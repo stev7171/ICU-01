@@ -1,0 +1,7 @@
+ldi 1 ; cool program
+wrt 10
+out 1
+ldc 10
+wrt 10
+out 1
+hlt 0

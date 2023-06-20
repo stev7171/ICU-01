@@ -1,0 +1,3 @@
+ldc 13
+out 0
+hlt 0

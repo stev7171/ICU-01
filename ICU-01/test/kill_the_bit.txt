@@ -1,0 +1,12 @@
+loadim 1
+write 0
+<- 7
+X 1
+zero? 9
+!write 0
+write 1
+!write 1
+write 2
+!write 2
+!write 0
+stop
