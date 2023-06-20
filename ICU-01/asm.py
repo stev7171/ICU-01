@@ -10,6 +10,8 @@ DIGITS = '0123456789'
 mem_location = 0
 offset = 0
 
+test = 'commit-test'
+
 changelog = ['6/18/23 (1.30):\n-fixed bugs\n-added cfile command\n-added file compiling', '3/1/23 (1.21):\n-fixed bugs', '3/1/23 (1.20):\n-set up OS interface\n-changed input method\n-added commands',
              '2/28/23 (1.10):\n-added start address output\n-added changelog']
 
